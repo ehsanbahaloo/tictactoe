@@ -1,0 +1,1 @@
+wun: gunicorn applicatioan:app 
